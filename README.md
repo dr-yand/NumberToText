@@ -8,3 +8,5 @@ java -classpath .;numtexttrans.jar transformation.test.TestTransformation
 58651   пятьдесят восемь тысяч шестьсот пятьдесят один
 100500  сто тысяч пятьсот
 </pre>
+
+![device-2014-11-14-230117.png](https://github.com/dr-yand/NumberToText/blob/master/numtext.png)
